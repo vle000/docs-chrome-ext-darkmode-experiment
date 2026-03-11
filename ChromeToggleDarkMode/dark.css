@@ -1,0 +1,107 @@
+.docs-homescreen-item-container,
+.docs-homescreen-gb-container,
+.docs-hs-tmp-widthwrapper,
+.docs-homescreen-gb-container,
+.docs-hs-tmp-templatecontentholder-inline,
+.docs-homescreen-templates-bar-content,
+.docs-homescreen-floater-grid-header,
+.docs-homescreen-grid-item,
+.docs-homescreen-floater-header-cell .docsshared-menu-bubble,
+.goog-menu,
+.docs-homescreen-list-item,
+.modal-dialog-title,
+.modal-dialog-content,
+.docs-homescreen-modaldialog, 
+.docs-offline-welcomepromo,
+#docs-chrome:not(.docs-hub-chrome),
+#docs-header:not(.docs-hub-appbar) .docs-titlebar-buttons,
+.docs-grille-gm3.docs-gm .docs-material #docs-toolbar-wrapper,
+.docs-grille-gm3 #docs-align-palette .goog-toolbar-button, 
+.docs-grille-gm3 .docs-main-toolbars .goog-toolbar-button, 
+.docs-grille-gm3 .docs-main-toolbars .goog-toolbar-combo-button, 
+.docs-grille-gm3 .docs-main-toolbars .goog-toolbar-menu-button,
+.docs-grille-gm3 #docs-omnibox-toolbar .docs-icon, 
+.docs-grille-gm3 .trix-palette .goog-toolbar-menu-button,
+.gb_Ha.gb_1a.gb_Pd {
+  background-color: #1e1e1e !important;
+}
+
+.docs-grille-gm3 .trix-palette .goog-toolbar-menu-button {
+  background-color: #1e1e1e !important;
+}
+
+.docs-homescreen-fcc-flex-content-wrapper {
+  background-color: #1e1e1e !important;
+}
+
+.goog-option-selected,
+.goog-menuitem-highlight,
+.goog-menu-button-hover,
+.jfk-button-hover {
+  background-color: #063278 !important;
+}
+
+.docs-homescreen-floater-header,
+.docs-homescreen-grid-header,
+jfk-button.docs-hs-tmp-contractedheader-more-button,
+.gb_1a .gb_Fd,
+.docs-homescreen-grid-header, .docs-homescreen-list-header,
+.docs-homescreen-item-section {
+  background: #1e1e1e !important;
+}
+
+.docs-homescreen-list-container docs-homescreen-list-container-vertical {
+  color: #1e1e1e !important;
+}
+
+body,
+p,
+span,
+div,
+td,
+th,
+li,
+button,
+header {
+  color: #eaeaea !important;
+} 
+
+.jfk-button.docs-hs-tmp-contractedheader-more,
+.docs-homescreen-owner-filter-button,
+.docs-homescreen-fab,
+.v7bWUd .o83JEf .nq7pOb.LVal7b {
+  background: #0c1c43 !important;
+}
+
+.docs-grille-gm3 #docs-titlebar-share-client-button .jfk-button {
+  background: rgb(0, 54, 112)
+}
+
+.docs-hs-tmp-common-separator {
+  border-left: 1px solid #0c1c43 !important;
+}
+
+.goog-menu .goog-option-selected .goog-menuitem-checkbox {
+  filter: invert(100%);
+}
+
+.LVal7b {
+  background: #1e1e1e !important;
+}
+
+svg {
+  fill: currentColor !important;
+}
+
+svg path {
+  color: #ffffff !important;
+}
+
+::selection {
+  background: #3a3a3a !important;
+  color: #ffffff !important;
+}
+
+ a {
+  color: #8ab4f8 !important;
+}
