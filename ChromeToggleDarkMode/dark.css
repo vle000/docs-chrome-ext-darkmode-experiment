@@ -54,15 +54,15 @@ jfk-button.docs-hs-tmp-contractedheader-more-button,
   color: #1e1e1e !important;
 }
 
-body,
-p,
-span,
-div,
-td,
-th,
-li,
-button,
-header {
+.docs-grille-gm3 body,
+.docs-grille-gm3 p,
+.docs-grille-gm3 span,
+.docs-grille-gm3 div,
+.docs-grille-gm3 td,
+.docs-grille-gm3 th,
+.docs-grille-gm3 li,
+.docs-grille-gm3 button,
+.docs-grille-gm3 header {
   color: #eaeaea !important;
 } 
 
